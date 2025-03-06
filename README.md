@@ -1,4 +1,4 @@
-# TOCANDO EL REPO DE OTRA PERSONA ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
@@ -10,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde 2010.
+TOCANDO EL REPO DE OTRA PERSONA  Soy ingeniero de software profesional desde 2010.
 
 He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
 
